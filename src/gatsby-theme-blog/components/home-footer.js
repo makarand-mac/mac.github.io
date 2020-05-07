@@ -27,8 +27,6 @@ const Footer = ({ socialLinks }) => (
           </Fragment>
         ))
       : null}
-      <br></br>
-      © {new Date().getFullYear()}
   </footer>
 )
 export default Footer
