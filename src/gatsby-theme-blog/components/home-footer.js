@@ -28,9 +28,6 @@ const Footer = ({ socialLinks }) => (
         ))
       : null}
       <br></br>
-      Powered by
-      {` `}
-      <Styled.a href="https://www.gatsbyjs.org">Gatsby</Styled.a><br></br>
       © {new Date().getFullYear()}
   </footer>
 )
