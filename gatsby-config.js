@@ -13,12 +13,16 @@ module.exports = {
     social: [
       {
         name: `Twitter`,
-        url: `https://twitter.com/makarand-mac`,
+        url: `https://twitter.com/makarand_mac`,
       },
       {
         name: `Github`,
         url: `https://github.com/makarand-mac`,
       },
+      {
+        name: `LinkedIn`,
+        url: `https://www.linkedin.com/in/makarand-mac`
+      }
     ],
   },
 }
