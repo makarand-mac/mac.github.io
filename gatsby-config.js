@@ -7,17 +7,17 @@ module.exports = {
   ],
   // Customize your site metadata:
   siteMetadata: {
-    title: `My Blog Title`,
-    author: `My Name`,
-    description: `My site description...`,
+    title: `Mac's thoughts`,
+    author: `Makarand Deshpande`,
+    description: `My random thoughts, anything from Computer Science to Philosophy :)`,
     social: [
       {
-        name: `twitter`,
-        url: `https://twitter.com/gatsbyjs`,
+        name: `Twitter`,
+        url: `https://twitter.com/makarand-mac`,
       },
       {
-        name: `github`,
-        url: `https://github.com/gatsbyjs`,
+        name: `Github`,
+        url: `https://github.com/makarand-mac`,
       },
     ],
   },
