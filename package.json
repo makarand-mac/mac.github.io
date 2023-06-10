@@ -11,7 +11,7 @@
     "gh": "gh-pages"
   },
   "dependencies": {
-    "gatsby": "^2.21.13",
+    "gatsby": "^4.25.7",
     "gatsby-theme-blog": "^1.5.13",
     "gh-pages": "^2.2.0",
     "react": "^16.12.0",
